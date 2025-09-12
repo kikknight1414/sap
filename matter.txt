@@ -1,0 +1,46 @@
+Slide 1 – Title
+
+“Good morning everyone, my name is Praneeth Jannu. Today, I’ll be taking you through my journey — covering my background, education, technical and non-technical sides, achievements, and aspirations. This will give you a complete picture of who I am, beyond just academics or work.”
+
+Slide 2 – Early Life & Background
+
+“I was born and brought up in Hyderabad, but later moved to Vijayawada, where my family currently stays. Growing up in two cities has taught me adaptability and given me exposure to different cultures. Personally, I value discipline, creativity, and hard work. I would describe myself as curious and persistent, which reflects in the way I approach challenges.”
+
+Slide 3 – Education Journey
+
+“I am currently pursuing my B.Tech in Computer Science and Engineering, with specialization in CSM, from Mahatma Gandhi Institute of Technology, Hyderabad. I will be graduating in 2025 with a CGPA of 8.01. Academically, I have always been interested in problem-solving and exploring areas like cognitive computing and AI, which shape how I see technology and its applications.”
+
+Slide 4 – Internship Experience
+
+“I had the opportunity to intern at Softility, Inc., where I worked under Kishore VK Pamarti, Senior Manager of Technical Operations. This internship gave me exposure to corporate work culture and professional discipline. I learned how to collaborate effectively in teams, adapt quickly to requirements, and stay accountable to responsibilities.”
+
+Slide 5 – Final Year Project
+
+“For my final year project, I worked on SeeSmart – Smart Assistance for the Visually Impaired. The goal was to create a web application that combines real-time object detection, OCR using EasyOCR, and audio feedback to help visually impaired individuals navigate daily life. We built this using Python, OpenCV, and Bootstrap. The project was particularly rewarding since it aimed at social impact and accessibility.”
+
+Slide 6 – Technical Skills
+
+“My technical skills include programming in Java and Python, with some exposure to .NET. I have beginner-level knowledge of cloud platforms like GCP and Azure. In AI/ML, I have worked with OCR, object detection, OpenCV, and EasyOCR. Currently, at LTIMindtree, I am being trained in SAP SuccessFactors, which is a new domain for me, but I am steadily learning and growing in it.”
+
+Slide 7 – Non-Technical Side
+
+“Beyond academics and technical work, I have a strong interest in music. I enjoy singing and playing guitar, which I’ve been practicing for a while. I also enjoy reading and writing, as well as exploring new technologies. I believe having hobbies outside work helps me stay balanced and creative. I can communicate in English, Telugu, and Hindi, which helps me connect with people from different backgrounds.”
+
+Slide 8 – Achievements & Learnings
+
+“One of my biggest personal achievements has been overcoming a serious health challenge — jaundice and Hepatitis A — which taught me resilience and patience. On the academic side, I gained confidence through projects like SeeSmart and real-time OCR systems. Another achievement is adaptability. I had a strong coding background in college, but I am now learning SAP SuccessFactors in a corporate setting, and I’ve adjusted well to this transition.”
+
+Slide 9 – SWOT Analysis
+
+“To summarize myself better, I prepared a SWOT analysis. My strengths are being a quick learner, adaptable, and having a strong technical foundation.
+On the other hand, my weaknesses include sometimes overthinking and being slightly nervous in public speaking, though I’m improving with practice.
+The opportunities ahead include corporate training in SAP SuccessFactors, pursuing a Master’s abroad, and the increasing demand for AI and SAP professionals.
+The threats I see are rapid changes in technology and strong competition, which remind me that continuous learning is essential in this field.”
+
+Slide 10 – Future Aspirations
+
+“My short-term goal is to excel in SAP SuccessFactors at LTIMindtree and become confident in applying it in real-world scenarios. In the mid-term, I plan to pursue a Master’s abroad, most likely in the USA or Australia, to expand my knowledge base. In the long term, I aim to become a domain expert and contribute to impactful projects that can solve real-world challenges.”
+
+Slide 11 – Thank You
+
+“Thank you for your time and patience. I hope this gave you an insight into who I am — both technically and personally. I’m open to feedback and look forward to learning and growing with all of you.”
